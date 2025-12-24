@@ -153,7 +153,7 @@ Provides business context and feedback, and formally approves milestones as need
 ### Typical Communication
 - Communicates periodically via reviews, demos, or check-ins.
 
----
+----
 
 ## Solution Architect
 
